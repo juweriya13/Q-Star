@@ -179,4 +179,4 @@ if uploaded_file is not None:
         st.title(analysis)
         # Add your data analysis logic here
         st.header("Under Construction.....!")
-st.write("**Developed by Faraz**")
+st.write("**Developed by Q-Star**")
