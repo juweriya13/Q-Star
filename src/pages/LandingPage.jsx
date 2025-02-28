@@ -106,7 +106,7 @@ function LandingPage({ setDataset }) {
               >
                 Upload Dataset
               </button> */}
-<a href="https://faraz-meraj-quazi-app.streamlit.app/">  <button 
+<a href="https://q-star-dashboard.streamlit.app/">  <button 
                 className="btn-primary text-lg px-8 py-3 shadow-lg"
               >
                 Get Started
