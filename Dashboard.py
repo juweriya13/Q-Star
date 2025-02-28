@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from Portfilio_visiual import Data_visualization
+from Dashboard2 import Data_visualization
 
 st.title("Upload CSV & Excel file.")
 
