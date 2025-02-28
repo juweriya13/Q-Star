@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Document</title>
+</head>
+    <body class="bg-zinc-900 p-4 text-white">
+        <h1 class="text-3xl my-4">Login</h1>
+        <a href="/api/user/login" class="text-sm text-blue-500 mb-4 inline-block">Create account</a>
+        <form action="/api/user/login" method="post">
+            <input type="email" placeholder="Email" name="email" class="bg-zinc-800 outline-none w-1/5  mr-1 p-4 rounded-md text-white ">
+            <input type="password" placeholder="Password" name="password" class="bg-zinc-800 outline-none w-1/5 mr-1 p-4 rounded-md text-white ">
+            <input type="submit" value="Login" class="bg-blue-500 outline-none p-4 px-10 cursor-pointer rounded-md text-white " >
+        </form>    
+    </div>
+</body>
+</html>
