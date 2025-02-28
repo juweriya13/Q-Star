@@ -5,7 +5,7 @@ import seaborn as sns
 from io import BytesIO
 from Dashboard3 import Bar_Chart
 from Dashboard4 import HeatMap
-from Portfolio_visiual_4 import Pie_chart
+from Dashboard5 import Pie_chart
 
 
 class Data_visualization():
