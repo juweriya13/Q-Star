@@ -228,7 +228,7 @@ function LandingPage({ setDataset }) {
                   JD
                 </div>
                 <div className="ml-4">
-                  <h4 className="font-bold text-gray-800">Jane Doe</h4>
+{/*                   <h4 className="font-bold text-gray-800">Jane Doe</h4> */}
                   <p className="text-gray-600">Data Analyst</p>
                 </div>
               </div>
@@ -243,7 +243,7 @@ function LandingPage({ setDataset }) {
                   JS
                 </div>
                 <div className="ml-4">
-                  <h4 className="font-bold text-gray-800">John Smith</h4>
+{/*                   <h4 className="font-bold text-gray-800">John Smith</h4> */}
                   <p className="text-gray-600">Marketing Director</p>
                 </div>
               </div>
