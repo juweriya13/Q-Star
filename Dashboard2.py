@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from io import BytesIO
-from Portfolio_visiual_2 import Bar_Chart
+from Dashboard3 import Bar_Chart
 from Portfolio_visiual_3 import HeatMap
 from Portfolio_visiual_4 import Pie_chart
 
