@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from io import BytesIO
 from Dashboard3 import Bar_Chart
-from Portfolio_visiual_3 import HeatMap
+from Dashboard4 import HeatMap
 from Portfolio_visiual_4 import Pie_chart
 
 
